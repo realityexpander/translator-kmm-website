@@ -1,5 +1,6 @@
-# translator-kmm-website
-Website for Translator KMM App
+[<img src="https://user-images.githubusercontent.com/5157474/218233986-0d42e2be-669e-4948-835a-a15c02179510.png" width=150 />](https://user-images.githubusercontent.com/5157474/218233986-0d42e2be-669e-4948-835a-a15c02179510.png)
+
+Translator KMM App
 
 Cross platform translation app written 90% in Kotlin, 10% Swift using KMM (Kotlin Multiplatform Mobile)
 
