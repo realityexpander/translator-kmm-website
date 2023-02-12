@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1200270e-2dc9-48f9-be31-60daa103662b" name="Changes" comment="add boostrap">
-      <change beforePath="$PROJECT_DIR$/boostrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap.min.css" afterDir="false" />
+    <list default="true" id="1200270e-2dc9-48f9-be31-60daa103662b" name="Changes" comment="fix naming">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676171215145</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix naming">
+      <created>1676171499686</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676171499686</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +97,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="add boostrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="add boostrap" />
+    <MESSAGE value="fix naming" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix naming" />
   </component>
 </project>
