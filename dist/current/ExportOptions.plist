@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://github.com/realityexpander/translator-kmm-website/dist/translate_kmm.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://user-images.githubusercontent.com/5157474/218284001-b0c2e89a-3139-41f9-826e-0cf3bc605c7b.jpg</string>
+		<key>fullSizeImageURL</key>
+		<string>https://user-images.githubusercontent.com/5157474/218284001-b0c2e89a-3139-41f9-826e-0cf3bc605c7b.jpg</string>
+	</dict>
+	<key>method</key>
+	<string>ad-hoc</string>
+	<key>signingStyle</key>
+	<string>automatic</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>8M6DWG8MX5</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>
