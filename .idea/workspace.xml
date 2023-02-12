@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1200270e-2dc9-48f9-be31-60daa103662b" name="Changes" comment="add more favicons">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicons/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/browserconfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicons/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicons/site.webmanifest" afterDir="false" />
+    <list default="true" id="1200270e-2dc9-48f9-be31-60daa103662b" name="Changes" comment="improve links">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676173422801</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="improve links">
+      <created>1676173672205</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676173672205</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +161,7 @@
     <MESSAGE value="Add dot" />
     <MESSAGE value="add favicon" />
     <MESSAGE value="add more favicons" />
-    <option name="LAST_COMMIT_MESSAGE" value="add more favicons" />
+    <MESSAGE value="improve links" />
+    <option name="LAST_COMMIT_MESSAGE" value="improve links" />
   </component>
 </project>
