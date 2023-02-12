@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1200270e-2dc9-48f9-be31-60daa103662b" name="Changes" comment="IDE">
+    <list default="true" id="1200270e-2dc9-48f9-be31-60daa103662b" name="Changes" comment="Add dot">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -106,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676172732682</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add dot">
+      <created>1676172842532</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676172842532</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +135,7 @@
     <MESSAGE value="improve webpage" />
     <MESSAGE value="improve website" />
     <MESSAGE value="IDE" />
-    <option name="LAST_COMMIT_MESSAGE" value="IDE" />
+    <MESSAGE value="Add dot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add dot" />
   </component>
 </project>
