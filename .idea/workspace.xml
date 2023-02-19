@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1200270e-2dc9-48f9-be31-60daa103662b" name="Changes" comment="Add logo" />
+    <list default="true" id="1200270e-2dc9-48f9-be31-60daa103662b" name="Changes" comment="remove old resources">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676708421696</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="move icons">
+      <created>1676779945746</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676779945746</updated>
+    </task>
+    <task id="LOCAL-00018" summary="remove old resources">
+      <created>1676780185752</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676780185752</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,6 +226,8 @@
     <MESSAGE value="Add dist files" />
     <MESSAGE value="Add ide stuff" />
     <MESSAGE value="Change name of App" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change name of App" />
+    <MESSAGE value="move icons" />
+    <MESSAGE value="remove old resources" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove old resources" />
   </component>
 </project>
